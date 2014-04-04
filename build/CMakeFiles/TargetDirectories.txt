@@ -1,0 +1,16 @@
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/clean-test-results.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/colorChooser.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/rosbuild_precompile.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/rospack_genmsg.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/rospack_gensrv.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/test.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/test-future.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/test-results.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/test-results-run.dir
+/home/romo/fuerte_wksp/sandbox/ColorChooser/build/CMakeFiles/tests.dir
